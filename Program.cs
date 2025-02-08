@@ -13,7 +13,7 @@ public class RaylibGame
       {
           BeginDrawing();
           ClearBackground(Color.White);
-          DrawText("GAME OVER!", 190, 200, 20, Color.Red);
+          DrawText("GAME OVER AGAIN!", 190, 200, 20, Color.Red);
           EndDrawing();
       }
 
