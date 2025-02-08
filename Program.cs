@@ -6,7 +6,7 @@ public class RaylibGame
 
   public static int Main()
   {
-      System.Console.WriteLine("Checking Raylib");
+      System.Console.WriteLine("Checking Raylib!");
       InitWindow(1024, 768, "Raylib Video Game");
 
       while (!WindowShouldClose())
