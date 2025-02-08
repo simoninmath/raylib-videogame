@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RkeCvO1MbRk=",
+  "success": true,
+  "projectFilePath": "/Users/mathieu/DEV/GameCoder/raylib-videogame/raylib-videogame.csproj",
+  "expectedPackageFiles": [
+    "/Users/mathieu/.nuget/packages/raylib-cs/7.0.1/raylib-cs.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
